@@ -1,0 +1,15 @@
+# Ignore Node.js dependency folders
+mini-olx-frontend/node_modules
+mini-olx-backend/node_modules
+
+# Ignore frontend build output
+mini-olx-frontend/dist
+
+# Ignore backend environment variables file
+mini-olx-backend/.env
+
+# Ignore SQLite database file
+mini-olx-backend/database.db
+
+# Ignore npm logs
+npm-debug.log*
