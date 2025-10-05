@@ -63,3 +63,24 @@ A small-scale, feature-rich marketplace application built with a modern tech sta
         ```
     -   **Add Placeholder Image:** Make sure you have a `placeholder.png` image inside the `mini-olx-frontend/public/` directory.
 
+### **Running the Application**
+
+You will need to run two separate terminals simultaneously to run both the backend and frontend servers.
+
+**Terminal 1: Start the Backend Server**
+```bash
+# Navigate to the backend folder from the project root
+cd mini-olx-backend
+
+# Start the server (runs on http://localhost:5000)
+npm run dev
+```
+
+**Terminal 2: Start the Backend Server**
+```bash
+# Navigate to the frontend folder from the project root
+cd mini-olx-frontend
+
+# Start the React app (opens in your browser at http://localhost:5173 or a similar port)
+npm run dev
+```
