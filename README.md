@@ -63,4 +63,3 @@ A small-scale, feature-rich marketplace application built with a modern tech sta
         ```
     -   **Add Placeholder Image:** Make sure you have a `placeholder.png` image inside the `mini-olx-frontend/public/` directory.
 
-### **Running
